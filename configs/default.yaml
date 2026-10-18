@@ -1,0 +1,49 @@
+project_root: /home/chenyujie/gyf/eswa
+
+llm:
+  provider: openai_compatible
+  model: gpt-6.1-sol
+  api_style: responses
+  base_url: https://api.openai.com/v1/responses
+  env_file: .env
+  temperature: 0.0
+  max_tokens: 1200
+  timeout_seconds: 120
+
+scorer:
+  model: gpt-6.1-sol
+  api_key_env: OPENAI_SCORER_API_KEY
+
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  statqa:
+    use_full: true
+    debug_limit: null
+  carbon:
+    country: China
+    sector: Total
+    horizon: 1
+    seasonal_lag: 1
+    rolling_window: 7
+
+calibration:
+  alpha: 0.10
+  alpha_candidates: [0.05, 0.10, 0.15, 0.20]
+  adult_alpha_candidates: [0.01, 0.025, 0.05, 0.075, 0.10, 0.15, 0.20]
+  adult_max_error_release: 0.02
+  california_delta: 0.50
+  california_delta_candidates: [0.50, 0.70, 1.00, 1.20]
+  carbon_delta_fraction_of_train_median: 0.05
+  carbon_delta_fraction_candidates: [0.03, 0.04]
+  carbon_alpha_candidates: [0.10]
+  carbon_release_min: 0.50
+  carbon_release_max: 0.80
+
+experiments:
+  seeds: [42, 43, 44]
+  validation_threshold_objective: balanced_accuracy
+  bootstrap_replicates: 10000
+
+outputs:
+  results_dir: results

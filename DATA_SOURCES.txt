@@ -1,0 +1,26 @@
+TrustStatAgent data sources
+===========================
+
+StatQA
+https://github.com/HKUSTDial/StatQA
+
+Zero-shot-CoT baseline
+https://github.com/kojima-takeshi188/zero_shot_cot
+
+ReAct baseline
+https://github.com/ysymyth/ReAct
+
+California Housing
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
+
+UCI Adult
+https://archive.ics.uci.edu/dataset/2/adult
+
+Carbon Monitor
+https://zenodo.org/records/5611986
+
+Carbon Monitor paper
+https://doi.org/10.1038/s41597-020-00708-7
+
+All datasets are downloaded by scripts/download_data.py.
+Raw and processed data files are intentionally excluded from this repository.

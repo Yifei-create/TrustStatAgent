@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/raw/*
+data/processed/*
+results/raw/*
+results/metrics/*
+results/tables/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/raw/.gitkeep
+!results/metrics/.gitkeep
+!results/tables/.gitkeep
+
+# Local paper drafts and internal planning files
+*.pdf
+TrustStatAgent-plan.md
+
+# Local experiment outputs
+results/
+data/raw/*
+data/processed/*
+
+!results/raw/.gitkeep
+!results/metrics/.gitkeep
+!results/tables/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Downloaded third-party repositories
+third_party/*/
+!third_party/provenance.json
+
+# Build metadata
+*.egg-info/

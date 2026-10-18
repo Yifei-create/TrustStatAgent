@@ -1,0 +1,39 @@
+project_root: /home/chenyujie/gyf/eswa
+
+llm:
+  provider: openai_compatible
+  model: deepseek-v4-pro
+  api_style: chat_completions
+  base_url: https://api.deepseek.com/chat/completions
+  api_key_env: DEEPSEEK_API_KEY
+  env_file: .env
+  thinking: disabled
+  temperature: 0.0
+  max_tokens: 1200
+  timeout_seconds: 120
+
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  statqa:
+    use_full: false
+    debug_limit: 20
+  carbon:
+    country: China
+    sector: Total
+    horizon: 1
+    seasonal_lag: 7
+    rolling_window: 30
+
+calibration:
+  alpha: 0.10
+  california_delta: 0.50
+  carbon_delta_fraction_of_train_median: 0.05
+
+experiments:
+  seeds: [42]
+  validation_threshold_objective: balanced_accuracy
+  bootstrap_replicates: 1000
+
+outputs:
+  results_dir: results
