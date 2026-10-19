@@ -27,6 +27,11 @@ def pct(rows: list[dict], key: str):
     return "-" if value == "-" else 100.0 * value
 
 
+def pct_optional(row: dict, key: str):
+    value = row.get(key)
+    return "-" if value is None else 100.0 * float(value)
+
+
 def add_sheet(workbook: Workbook, name: str, headers: list[str], rows: list[list[object]]) -> None:
     sheet = workbook.create_sheet(name)
     sheet.append(headers)
@@ -71,18 +76,18 @@ def main() -> None:
         ["Zero-shot-CoT", "-"], ["ReAct Statistical Agent", "-"], ["ReAct + Conventional Gate", "-"], ["TrustStatAgent", 100 * trust_statqa["accuracy"]],
     ])
 
-    table2 = [["StatQA", "ReAct Statistical Agent", "-", 100.0, 0.0, 100 * (1 - react_statqa["accuracy"])]]
+    table2 = [["StatQA", "ReAct Statistical Agent", "-", "-", 100.0, 0.0, 100 * (1 - react_statqa["accuracy"])]]
     for label, dataset in [("Adult", "Adult"), ("California", cali), ("Carbon", carbon)]:
         direct_rows = ng.get((dataset, "w/o Risk Gate"), [])
-        table2.append([label, "ReAct Statistical Agent", "-", 100.0, 0.0, pct(direct_rows, "error_release_rate")])
+        table2.append([label, "ReAct Statistical Agent", "-", "-", 100.0, 0.0, pct(direct_rows, "error_release_rate")])
     for label, dataset in [("StatQA", "StatQA"), ("Adult", "Adult"), ("California", cali), ("Carbon", carbon)]:
         conv = react_statqa if dataset == "StatQA" else ng.get((dataset, conventional), [{}])[0]
         full = trust_statqa if dataset == "StatQA" else ng.get((dataset, trust), [{}])[0]
         table2.extend([
-            [label, conventional, "-" if dataset == "StatQA" else 100 * conv.get("coverage", float("nan")), 100 * conv["release_rate"], 100 * conv["manual_review_rate"], 100 * conv["error_release_rate"]],
-            [label, trust, "-" if dataset == "StatQA" else 100 * full.get("coverage", float("nan")), 100 * full["release_rate"], 100 * full["manual_review_rate"], 100 * full["error_release_rate"]],
+            [label, conventional, "-" if dataset == "StatQA" else pct_optional(conv, "coverage"), "-" if dataset == "StatQA" else pct_optional(conv, "released_correctness"), 100 * conv["release_rate"], 100 * conv["manual_review_rate"], 100 * conv["error_release_rate"]],
+            [label, trust, "-" if dataset == "StatQA" else pct_optional(full, "coverage"), "-" if dataset == "StatQA" else pct_optional(full, "released_correctness"), 100 * full["release_rate"], 100 * full["manual_review_rate"], 100 * full["error_release_rate"]],
         ])
-    add_sheet(workbook, "Table2_Baseline_Reliability", ["Dataset", "Method", "Coverage (%)", "Auto-release (%)", "Manual-review (%)", "Error-release (%)"], table2)
+    add_sheet(workbook, "Table2_Baseline_Reliability", ["Dataset", "Method", "Conformal coverage (%)", "Released correctness (%)", "Auto-release (%)", "Manual-review (%)", "Error-release (%)"], table2)
 
     add_sheet(workbook, "Table3_Planning_Ablation", ["Variant", "Official Accuracy (%)"], [
         ["w/o Explicit Planning", 100 * noplan_accuracy], ["Full TrustStatAgent", 100 * trust_statqa["accuracy"]],
@@ -96,8 +101,8 @@ def main() -> None:
         else:
             variants = [ng.get((dataset, "w/o Conformal Calibration"), [{}])[0], ng.get((dataset, "w/o Risk Gate"), [{}])[0], ng.get((dataset, trust), [{}])[0]]
         for row in variants:
-            ablation.append([label, row["variant"], "-" if dataset == "StatQA" else 100 * row.get("coverage", float("nan")), 100 * row["release_rate"], 100 * row["manual_review_rate"], 100 * row["error_release_rate"]])
-    add_sheet(workbook, "Table4_Module_Ablation", ["Dataset", "Variant", "Coverage (%)", "Auto-release (%)", "Manual-review (%)", "Error-release (%)"], ablation)
+            ablation.append([label, row["variant"], "-" if dataset == "StatQA" else pct_optional(row, "coverage"), "-" if dataset == "StatQA" else pct_optional(row, "released_correctness"), 100 * row["release_rate"], 100 * row["manual_review_rate"], 100 * row["error_release_rate"]])
+    add_sheet(workbook, "Table4_Module_Ablation", ["Dataset", "Variant", "Conformal coverage (%)", "Released correctness (%)", "Auto-release (%)", "Manual-review (%)", "Error-release (%)"], ablation)
 
     category_rows = []
     for row in category_breakdown["rows"]:
@@ -115,6 +120,7 @@ def main() -> None:
         "StatQA baseline task accuracy rows are intentionally omitted from the main task table; reliability baselines are shown in Table2.",
         "Numeric dataset values are the existing formal results and were not rerun in this StatQA experiment.",
         "Error-release is the error rate among automatically released results.",
+        "Conformal coverage is unconditional prediction-set or interval coverage; released correctness is conditional on automatic release.",
     ]:
         notes.append([note])
     notes.column_dimensions["A"].width = 120

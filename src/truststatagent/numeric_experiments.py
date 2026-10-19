@@ -63,6 +63,10 @@ def _row(dataset: str, variant: str, base_metric: dict[str, float], gate: dict[s
     result: dict[str, Any] = {"dataset": dataset, "variant": variant}
     result.update(base_metric)
     result.update(gate)
+    if variant in {"ReAct with Conventional Gating", "w/o Conformal Calibration"}:
+        result["coverage"] = None
+    release_error = float(gate.get("error_release_rate", float("nan")))
+    result["released_correctness"] = 1.0 - release_error if np.isfinite(release_error) else float("nan")
     return result
 
 
@@ -183,6 +187,7 @@ def evaluate_california(catalog: DatasetCatalog, alpha: float, delta: float, see
     test_lower_c, test_upper_c = calibrator.interval(test_lower, test_upper)
     val_lower_c, val_upper_c = calibrator.interval(val_lower, val_upper)
     y_test = test["MedHouseVal"].to_numpy()
+    error = np.abs(test_point - y_test) > delta
     val_raw_width = np.maximum(val_point - val_lower, val_upper - val_point)
     test_raw_width = np.maximum(test_point - test_lower, test_upper - test_point)
     val_error = np.abs(val_point - validation["MedHouseVal"].to_numpy()) > delta
@@ -196,8 +201,8 @@ def evaluate_california(catalog: DatasetCatalog, alpha: float, delta: float, see
         "conformal_q": calibrator.q,
         "coverage": coverage,
         "mean_interval_width": float(np.mean(test_upper_c - test_lower_c)),
+        "released_correctness": float(np.mean(~error[full_release])) if np.any(full_release) else float("nan"),
     }
-    error = np.abs(test_point - y_test) > delta
     return [
         _row("California Housing", "TrustStatAgent", base, gate_metrics(error, full_release)),
         _row("California Housing", "ReAct with Conventional Gating", base, gate_metrics(error, conventional_release)),
@@ -230,8 +235,10 @@ def evaluate_adult(catalog: DatasetCatalog, alpha: float, seed: int) -> list[dic
     full_release = np.asarray([item == [int(pred)] for item, pred in zip(prediction_sets, test_pred)])
     conventional_release = -np.max(test_prob, axis=1) <= threshold
     no_gate_release = np.ones(len(test), dtype=bool)
-    coverage = float(np.mean([int(pred) in item for pred, item in zip(test_pred, prediction_sets)]))
-    base = {"accuracy": accuracy(test_y, test_pred), "conformal_q": conformal.q, "coverage": coverage}
+    # Coverage is evaluated against the held-out label, never the model prediction.
+    coverage = float(np.mean([int(label) in item for label, item in zip(test_y, prediction_sets)]))
+    released_correctness = float(np.mean(test_pred[full_release] == test_y[full_release])) if np.any(full_release) else float("nan")
+    base = {"accuracy": accuracy(test_y, test_pred), "conformal_q": conformal.q, "coverage": coverage, "released_correctness": released_correctness}
     error = test_pred != test_y
     return [
         _row("Adult", "TrustStatAgent", base, gate_metrics(error, full_release)),
@@ -299,6 +306,7 @@ def evaluate_carbon(catalog: DatasetCatalog, alpha: float, delta_fraction: float
         "delta": delta,
         "coverage": coverage,
         "mean_interval_width": float(2.0 * np.mean(test_q)),
+        "released_correctness": float(np.mean(~error[full_release])) if np.any(full_release) else float("nan"),
     }
     return [
         _row("Carbon Monitor China/Total", "TrustStatAgent", base, gate_metrics(error, full_release)),

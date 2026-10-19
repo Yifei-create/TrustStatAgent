@@ -75,7 +75,7 @@ def main() -> None:
     parser.add_argument("--dataset", default="mini")
     parser.add_argument("--tag", required=True)
     parser.add_argument("--output", required=True)
-    parser.add_argument("--target-release", type=float, default=0.70)
+    parser.add_argument("--target-release", type=float, default=0.50)
     parser.add_argument("--max-error-release", type=float, default=0.05)
     parser.add_argument("--alpha-candidates", default="0.05,0.10,0.15,0.20,0.25,0.30,0.40")
     args = parser.parse_args()
