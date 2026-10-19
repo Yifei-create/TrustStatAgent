@@ -1,4 +1,5 @@
 from __future__ import annotations
+"""Deprecated component runner; use run_paper_experiment.py."""
 
 import argparse
 import json

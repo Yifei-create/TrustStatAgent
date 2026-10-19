@@ -1,5 +1,3 @@
-project_root: /home/chenyujie/gyf/TrustStatAgent
-
 llm:
   provider: dry_run
   model: gpt-6.1-sol
@@ -8,6 +6,7 @@ llm:
   temperature: 0.0
   max_tokens: 600
   timeout_seconds: 30
+  max_retries: 2
 
 scorer:
   model: gpt-6.1-sol

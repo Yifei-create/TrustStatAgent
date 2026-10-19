@@ -8,22 +8,24 @@ and evaluation.
 ## Reproducible workflow
 
 ```bash
-cd /home/chenyujie/gyf/eswa
 python -m pip install -e .
 python scripts/download_data.py --all
 python scripts/prepare_data.py --config configs/default.yaml
 python scripts/generate_tasks.py
-python scripts/run_experiment.py --config configs/debug.yaml --mode dry-run
-python scripts/run_agent_tasks.py --config configs/debug.yaml --method react --mode dry-run --limit 3
-export DEEPSEEK_API_KEY="你的DeepSeek密钥"
-python scripts/run_paper_experiment.py --config configs/deepseek_debug.yaml --mode api --dataset mini --statqa-limit 20
-python scripts/run_paper_experiment.py --config configs/default.yaml --mode api --dataset full
-python scripts/run_statqa.py --config configs/debug.yaml --dataset mini --limit 20 --split calibration --mode dry-run
-python scripts/run_statqa.py --config configs/debug.yaml --dataset mini --limit 20 --split test --mode dry-run
-python scripts/evaluate_statqa.py --calibration results/raw/statqa_mini_truststatagent_calibration.jsonl --test results/raw/statqa_mini_truststatagent_test.jsonl --output results/metrics/statqa_debug.jsonl
-# The command above is the canonical paper entry point. Individual scripts are
-# retained for debugging and component-level reproduction.
+# Canonical paper entry point. It runs numeric experiments and the four-way
+# StatQA pipeline with independent output tags.
+python scripts/run_paper_experiment.py --config configs/default.yaml --mode api --dataset mini
 ```
+
+For a local smoke run, use the dry-run configuration and skip the numeric LLM
+preflight:
+
+```bash
+python scripts/run_paper_experiment.py --config configs/debug.yaml --mode dry-run --dataset mini --statqa-limit 20 --skip-numeric-agent
+```
+
+`run_experiment.py`, `run_agent_tasks.py`, and `run_statqa.py` remain available
+for component-level debugging. They are not the formal paper entry point.
 
 Set `OPENAI_API_KEY` only when API-backed runs are intended. The key is never
 stored in this repository. The debug configuration limits task counts; the

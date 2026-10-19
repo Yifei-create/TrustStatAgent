@@ -21,6 +21,7 @@ def main() -> None:
     parser.add_argument("--skip-agent", action="store_true", help="Skip the LLM planning preflight (debugging only).")
     parser.add_argument("--reuse-agent-traces", action="store_true", help="Reuse previously verified successful traces.")
     parser.add_argument("--tasks", default="tasks/tasks.jsonl")
+    parser.add_argument("--run-id", help="Write this run under results/runs/<run-id> without overwriting shared outputs.")
     args = parser.parse_args()
     config = load_config(args.config)
     catalog = DatasetCatalog(project_path(config, "data/processed/datasets.json"))
@@ -65,14 +66,15 @@ def main() -> None:
             row["agent_preflight"] = "success" if agent_traces else "skipped"
             row["agent_trace_reference"] = "results/raw/numeric_agent_traces.jsonl" if agent_traces else None
             all_rows.append(row)
-    output = project_path(config, "results/metrics/numeric_metrics.jsonl")
+    output_root = project_path(config, f"results/runs/{args.run_id}") if args.run_id else project_path(config, "results")
+    output = output_root / "metrics" / "numeric_metrics.jsonl"
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text("\n".join(json.dumps(row, ensure_ascii=False) for row in all_rows) + "\n", encoding="utf-8")
-    trace_output = trace_path
+    trace_output = output_root / "raw" / "numeric_agent_traces.jsonl"
     trace_output.parent.mkdir(parents=True, exist_ok=True)
     trace_output.write_text("\n".join(json.dumps(row, ensure_ascii=False) for row in agent_traces) + ("\n" if agent_traces else ""), encoding="utf-8")
-    run_id = datetime.now(timezone.utc).strftime("numeric_%Y%m%dT%H%M%SZ")
-    run_dir = project_path(config, f"results/runs/{run_id}")
+    run_id = args.run_id or datetime.now(timezone.utc).strftime("numeric_%Y%m%dT%H%M%SZ")
+    run_dir = output_root if args.run_id else project_path(config, f"results/runs/{run_id}")
     run_dir.mkdir(parents=True, exist_ok=True)
     revision_file = project_path(config, "data/raw/download_manifest.json")
     revision_hash = hashlib.sha256(revision_file.read_bytes()).hexdigest() if revision_file.exists() else None
@@ -88,7 +90,8 @@ def main() -> None:
         "agent_trace_reference": str(trace_output),
     }
     (run_dir / "run_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
-    (project_path(config, "results/runs/latest_manifest.json")).write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    if not args.run_id:
+        (project_path(config, "results/runs/latest_manifest.json")).write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     print(output)
 
 

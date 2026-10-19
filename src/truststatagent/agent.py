@@ -79,6 +79,10 @@ class TrustStatAgent:
             if payload.get("candidate") is not None or payload.get("candidate_answer") is not None:
                 if method == "truststatagent" and trace.plan is None:
                     raise ValueError("TrustStatAgent completed without a structured analysis plan")
+                if any(name.startswith("predict_") for name in task.allowed_tools):
+                    prediction_calls = [call for call in trace.calls if call.get("tool", "").startswith("predict_")]
+                    if not prediction_calls or any(call.get("observation", {}).get("prediction_id") not in self.tools.predictions for call in prediction_calls):
+                        raise RuntimeError(f"Task {task.task_id} completed without a stored prediction artifact")
                 trace.candidate = dict(payload.get("candidate", {"answer": payload.get("candidate_answer"), "p_correct": payload.get("p_correct")}))
                 trace.execution_status = "success"
                 return trace
@@ -98,7 +102,12 @@ class TrustStatAgent:
             arguments = dict(payload.get("arguments", {}))
             try:
                 observation = self.tools.dispatch(str(tool_name), arguments)
-            except (KeyError, PermissionError, TypeError, ValueError) as error:
+                if observation.get("status") == "success":
+                    if tool_name.startswith("fit_") and observation.get("model_id") not in self.tools.models:
+                        raise RuntimeError(f"Tool {tool_name} returned an unknown model artifact")
+                    if tool_name.startswith("predict_") and observation.get("prediction_id") not in self.tools.predictions:
+                        raise RuntimeError(f"Tool {tool_name} returned an unknown prediction artifact")
+            except (KeyError, PermissionError, TypeError, ValueError, RuntimeError) as error:
                 observation = {"status": "error", "error_type": type(error).__name__, "message": str(error)}
             call_record = {"tool": tool_name, "arguments": arguments, "observation": observation}
             trace.calls.append(call_record)

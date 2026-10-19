@@ -33,7 +33,20 @@ class StatisticalToolRegistry:
         self.models: dict[str, ModelArtifact] = {}
         self.predictions: dict[str, pd.DataFrame] = {}
 
+    @staticmethod
+    def _require_text(value: Any, name: str) -> str:
+        if not isinstance(value, str) or not value.strip():
+            raise TypeError(f"{name} must be a non-empty string")
+        return value
+
+    def _require_model(self, model_id: str) -> ModelArtifact:
+        model_id = self._require_text(model_id, "model_id")
+        if model_id not in self.models:
+            raise KeyError(f"Unknown model artifact: {model_id}")
+        return self.models[model_id]
+
     def inspect_dataset(self, data_id: str) -> dict[str, Any]:
+        data_id = self._require_text(data_id, "data_id")
         return self.catalog.inspect(data_id)
 
     def fit_regressor(
@@ -43,6 +56,10 @@ class StatisticalToolRegistry:
         feature_columns: list[str],
         model_name: str = "fixed_regressor",
     ) -> dict[str, Any]:
+        training_data_id = self._require_text(training_data_id, "training_data_id")
+        target_column = self._require_text(target_column, "target_column")
+        if not isinstance(feature_columns, list) or not feature_columns or not all(isinstance(value, str) and value for value in feature_columns):
+            raise TypeError("feature_columns must be a non-empty list of strings")
         frame = self.catalog.read(training_data_id)
         missing = [column for column in [target_column, *feature_columns] if column not in frame.columns]
         if missing:
@@ -62,6 +79,10 @@ class StatisticalToolRegistry:
         feature_columns: list[str],
         model_name: str = "fixed_classifier",
     ) -> dict[str, Any]:
+        training_data_id = self._require_text(training_data_id, "training_data_id")
+        target_column = self._require_text(target_column, "target_column")
+        if not isinstance(feature_columns, list) or not feature_columns or not all(isinstance(value, str) and value for value in feature_columns):
+            raise TypeError("feature_columns must be a non-empty list of strings")
         frame = self.catalog.read(training_data_id)
         missing = [column for column in [target_column, *feature_columns] if column not in frame.columns]
         if missing:
@@ -85,17 +106,25 @@ class StatisticalToolRegistry:
 
     def predict_regressor(self, model_id: str, prediction_data_id: str) -> dict[str, Any]:
         # Test features are label-free by construction.
-        artifact = self.models[model_id]
+        artifact = self._require_model(model_id)
+        if artifact.task != "regression":
+            raise ValueError(f"Model {model_id} is not a regression artifact")
+        prediction_data_id = self._require_text(prediction_data_id, "prediction_data_id")
         frame = self.catalog.read(prediction_data_id)
         prediction = artifact.model.predict(frame[list(artifact.features)])
         result = pd.DataFrame({"prediction": np.asarray(prediction, dtype=float)})
         prediction_id = f"prediction_{len(self.predictions):04d}"
         self.predictions[prediction_id] = result
+        if prediction_id not in self.predictions or len(self.predictions[prediction_id]) != len(frame):
+            raise RuntimeError("Prediction artifact was not stored for the current task")
         return {"prediction_id": prediction_id, "status": "success", "n_rows": len(result)}
 
     def predict_classifier(self, model_id: str, prediction_data_id: str) -> dict[str, Any]:
         # Test features are label-free by construction.
-        artifact = self.models[model_id]
+        artifact = self._require_model(model_id)
+        if artifact.task != "classification":
+            raise ValueError(f"Model {model_id} is not a classification artifact")
+        prediction_data_id = self._require_text(prediction_data_id, "prediction_data_id")
         frame = self.catalog.read(prediction_data_id)
         labels = artifact.model.predict(frame[list(artifact.features)])
         probabilities = artifact.model.predict_proba(frame[list(artifact.features)])

@@ -4,6 +4,7 @@ import json
 import os
 import urllib.request
 import urllib.error
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -67,7 +68,7 @@ class DryRunClient(LLMClient):
 
 
 class OpenAICompatibleClient(LLMClient):
-    def __init__(self, base_url: str, model: str, api_style: str, api_key_env: str, thinking: str | None, reasoning_effort: str | None, temperature: float, max_tokens: int, timeout: int):
+    def __init__(self, base_url: str, model: str, api_style: str, api_key_env: str, thinking: str | None, reasoning_effort: str | None, temperature: float, max_tokens: int, timeout: int, max_retries: int = 2):
         self.base_url = base_url
         self.model = model
         self.api_style = api_style
@@ -77,6 +78,7 @@ class OpenAICompatibleClient(LLMClient):
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.timeout = timeout
+        self.max_retries = max(0, min(int(max_retries), 4))
 
     def generate_json(self, messages: list[dict[str, str]]) -> LLMResponse:
         api_key = os.environ.get(self.api_key_env)
@@ -109,21 +111,36 @@ class OpenAICompatibleClient(LLMClient):
             headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
             method="POST",
         )
-        try:
-            with urllib.request.urlopen(request, timeout=self.timeout) as response:
-                raw = json.loads(response.read().decode("utf-8"))
-        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as error:
-            raise RuntimeError(f"LLM request failed: {error}") from error
+        raw = None
+        for attempt in range(self.max_retries + 1):
+            try:
+                with urllib.request.urlopen(request, timeout=self.timeout) as response:
+                    raw = json.loads(response.read().decode("utf-8"))
+                break
+            except urllib.error.HTTPError as error:
+                retryable = error.code == 408 or error.code == 429 or 500 <= error.code < 600
+                if not retryable or attempt >= self.max_retries:
+                    raise RuntimeError(f"LLM request failed with HTTP {error.code}") from error
+            except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as error:
+                if attempt >= self.max_retries:
+                    raise RuntimeError(f"LLM request failed: {type(error).__name__}: {error}") from error
+            time.sleep(0.5 * (2**attempt))
+        if not isinstance(raw, dict):
+            raise RuntimeError("LLM response body was not a JSON object")
         if self.api_style == "responses":
-            content = next(
-                item["text"]
-                for output_item in raw["output"]
-                for item in output_item.get("content", [])
-                if item.get("type") == "output_text"
-            )
+            try:
+                content = next(item["text"] for output_item in raw["output"] for item in output_item.get("content", []) if item.get("type") == "output_text")
+            except (KeyError, StopIteration) as error:
+                raise ValueError("Responses API returned no output_text JSON content") from error
         else:
-            content = raw["choices"][0]["message"]["content"]
-        parsed = json.loads(content) if isinstance(content, str) else content
+            try:
+                content = raw["choices"][0]["message"]["content"]
+            except (KeyError, IndexError) as error:
+                raise ValueError("Chat API returned no message content") from error
+        try:
+            parsed = json.loads(content) if isinstance(content, str) else content
+        except json.JSONDecodeError as error:
+            raise ValueError(f"LLM returned invalid JSON: {error.msg}") from error
         if not isinstance(parsed, dict):
             raise ValueError("LLM response must be a JSON object")
         return LLMResponse(content=parsed, raw=raw)
@@ -146,4 +163,5 @@ def make_client(config: dict[str, Any]) -> LLMClient:
         temperature=float(llm.get("temperature", 0.0)),
         max_tokens=int(llm.get("max_tokens", 1200)),
         timeout=int(llm.get("timeout_seconds", 120)),
+        max_retries=int(llm.get("max_retries", 2)),
     )
