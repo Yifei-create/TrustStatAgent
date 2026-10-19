@@ -1,4 +1,4 @@
-project_root: /home/chenyujie/gyf/eswa
+project_root: /home/chenyujie/gyf/TrustStatAgent
 
 llm:
   provider: openai_compatible
@@ -13,6 +13,11 @@ llm:
 scorer:
   model: gpt-6.1-sol
   api_key_env: OPENAI_SCORER_API_KEY
+  temperature: 0.2
+  votes: 1
+
+statqa:
+  consistency_temperature: 0.7
 
 data:
   raw_dir: data/raw

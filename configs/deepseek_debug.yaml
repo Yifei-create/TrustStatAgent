@@ -1,4 +1,4 @@
-project_root: /home/chenyujie/gyf/eswa
+project_root: /home/chenyujie/gyf/TrustStatAgent
 
 llm:
   provider: openai_compatible

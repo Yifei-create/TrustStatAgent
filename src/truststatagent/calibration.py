@@ -81,3 +81,27 @@ class StatQAConfidenceCalibrator:
         if p <= self.q:
             result.append("error")
         return result
+
+
+@dataclass(frozen=True)
+class StatQAScoreCalibrator:
+    """Conformal correctness sets from an externally scored candidate."""
+
+    alpha: float
+    q: float
+
+    @classmethod
+    def fit(cls, scorer_score: np.ndarray, correct: np.ndarray, alpha: float) -> "StatQAScoreCalibrator":
+        score = np.asarray(scorer_score, dtype=float)
+        labels = np.asarray(correct, dtype=bool)
+        nonconformity = np.where(labels, 1.0 - score, score)
+        return cls(alpha=alpha, q=finite_sample_q(nonconformity, alpha))
+
+    def prediction_set(self, scorer_score: float) -> list[str]:
+        score = float(scorer_score)
+        result: list[str] = []
+        if 1.0 - score <= self.q:
+            result.append("correct")
+        if score <= self.q:
+            result.append("error")
+        return result
