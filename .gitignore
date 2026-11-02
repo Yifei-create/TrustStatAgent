@@ -34,3 +34,24 @@ third_party/*/
 
 # Build metadata
 *.egg-info/
+
+# Internal paper drafts (superseded by the ESWA manuscript)
+RESULTS_AND_DISCUSSION.md
+
+# Frozen evaluation artifacts published for offline reproduction
+!results/
+!results/raw/
+!results/metrics/
+results/*
+!results/raw/
+!results/metrics/
+results/raw/*
+results/metrics/*
+!results/raw/statqa_mini_truststatagent_opt_mini_full_*.jsonl
+!results/raw/statqa_mini_react_opt_mini_full_*.jsonl
+!results/raw/statqa_mini_without_explicit_planning_opt_mini_full_*.jsonl
+!results/raw/statqa_mini_verbalized_confidence_opt_mini_full.jsonl
+!results/raw/statqa_mini_split_v2_full.json
+!results/raw/numeric_agent_traces.jsonl
+!results/metrics/statqa_mini_multiseed.jsonl
+!results/metrics/numeric_metrics.jsonl

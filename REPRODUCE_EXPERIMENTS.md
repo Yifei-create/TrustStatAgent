@@ -65,6 +65,30 @@ PYTHONPATH=src python scripts/export_paper_tables.py
 
 The workbook is written to `results/tables/TrustStatAgent_ESWA_tables.xlsx` and contains task performance, baseline reliability, planning ablation, module ablation, and StatQA category results.
 
+## Multi-seed evaluation
+
+The frozen StatQA candidates published under `results/raw/` can be rescored offline under repeated split assignments without further API calls:
+
+```bash
+PYTHONPATH=src python scripts/run_statqa_multiseed.py \
+  --verbalized results/raw/statqa_mini_verbalized_confidence_opt_mini_full.jsonl \
+  --output results/metrics/statqa_mini_multiseed.jsonl
+```
+
+Seven seeds are evaluated. Seed 42 reuses the official stratified split released with the benchmark and reproduces the single-configuration report; seeds 43 to 48 reshuffle the assignment of tasks to the scorer-calibration, conformal-calibration, validation, and test splits with the same per-category ratios. The output records, per variant and seed, the release statistics, the raw confusion counts (TP, FN, TN, FP), and the validation AUC of the trained correctness score and of the verbalized-confidence signal.
+
+The numeric benchmarks are evaluated over three seeds by `run_numeric_experiments.py` (see `experiments.seeds` in `configs/default.yaml`). Pipelines whose metrics are deterministic given the data report zero variance across seeds.
+
+## Verbalized confidence baseline
+
+The self-reported-confidence gating baseline elicits one probability of correctness per frozen candidate:
+
+```bash
+PYTHONPATH=src python scripts/run_statqa_verbalized_confidence.py --config configs/default.yaml --dataset mini --tag opt_mini_full --workers 8
+```
+
+This requires API access and writes `results/raw/statqa_mini_verbalized_confidence_opt_mini_full.jsonl`; the multi-seed script above consumes it.
+
 ## Publication checks
 
 ```bash
@@ -72,4 +96,4 @@ git check-ignore -v .env
 git status --short
 ```
 
-Do not commit `.env`, raw or processed data, generated model outputs, or internal paper drafts. Each numeric run writes a manifest containing configuration, seeds, split sizes, selected parameters, model versions, and a dataset revision hash.
+Do not commit `.env`, raw or processed data, generated model outputs other than the frozen artifacts listed in `.gitignore`, or internal paper drafts. Each numeric run writes a manifest containing configuration, seeds, split sizes, selected parameters, model versions, and a dataset revision hash.

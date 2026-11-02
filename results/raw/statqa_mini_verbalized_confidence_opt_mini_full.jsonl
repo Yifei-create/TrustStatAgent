@@ -1,0 +1,1163 @@
+{"task_id": "statqa_000019", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000021", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000036", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000039", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.965, "error": null}
+{"task_id": "statqa_000044", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000046", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000049", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.817, "error": null}
+{"task_id": "statqa_000057", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.914, "error": null}
+{"task_id": "statqa_000063", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000079", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.792, "error": null}
+{"task_id": "statqa_000081", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000086", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000087", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.218, "error": null}
+{"task_id": "statqa_000088", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000091", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000108", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_000120", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000126", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000131", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000138", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.951, "error": null}
+{"task_id": "statqa_000156", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.842, "error": null}
+{"task_id": "statqa_000162", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.263, "error": null}
+{"task_id": "statqa_000166", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000171", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.893, "error": null}
+{"task_id": "statqa_000173", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000174", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000190", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000192", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000193", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000194", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000201", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.274, "error": null}
+{"task_id": "statqa_000203", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000210", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000211", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.937, "error": null}
+{"task_id": "statqa_000214", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.364, "error": null}
+{"task_id": "statqa_000217", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000218", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_000230", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.892, "error": null}
+{"task_id": "statqa_000231", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000236", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.951, "error": null}
+{"task_id": "statqa_000238", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000240", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000245", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.923, "error": null}
+{"task_id": "statqa_000249", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000256", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000257", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000259", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.93, "error": null}
+{"task_id": "statqa_000261", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000262", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000267", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000268", "split": "scorer_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.886, "error": null}
+{"task_id": "statqa_000002", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000012", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000014", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000025", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000031", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000033", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000041", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000043", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000059", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000061", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.943, "error": null}
+{"task_id": "statqa_000076", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000078", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000084", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000089", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000094", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000106", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000112", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000125", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000133", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000137", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000139", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.954, "error": null}
+{"task_id": "statqa_000140", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000150", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000151", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000152", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000155", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000157", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.955, "error": null}
+{"task_id": "statqa_000161", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.948, "error": null}
+{"task_id": "statqa_000177", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000188", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_000197", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000202", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_000204", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.923, "error": null}
+{"task_id": "statqa_000228", "split": "scorer_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000003", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000005", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000008", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000011", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000013", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000017", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000018", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000023", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000028", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000029", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000030", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000042", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000045", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000048", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000062", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000065", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000066", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000069", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000070", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000075", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000077", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000090", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000100", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000103", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000104", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000105", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000109", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000110", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000117", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000118", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000123", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000124", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000127", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000128", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000134", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000141", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000145", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000148", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000158", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000164", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000168", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000170", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000172", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000175", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000183", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000187", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000189", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000208", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000209", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000213", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000215", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000219", "split": "scorer_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000004", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.916, "error": null}
+{"task_id": "statqa_000006", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000007", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000009", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000022", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000024", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000032", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000034", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000040", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.827, "error": null}
+{"task_id": "statqa_000047", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000051", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000056", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.98, "error": null}
+{"task_id": "statqa_000068", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000071", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000072", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000073", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000083", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.864, "error": null}
+{"task_id": "statqa_000085", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.816, "error": null}
+{"task_id": "statqa_000095", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000096", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000098", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.927, "error": null}
+{"task_id": "statqa_000101", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000111", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000113", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000119", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000121", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000122", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000142", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000146", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000147", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.836, "error": null}
+{"task_id": "statqa_000149", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000153", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.939, "error": null}
+{"task_id": "statqa_000159", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.918, "error": null}
+{"task_id": "statqa_000163", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000165", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000167", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000176", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000178", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000180", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.954, "error": null}
+{"task_id": "statqa_000181", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000182", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000184", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000186", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000195", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000196", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000199", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000216", "split": "scorer_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000000", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000001", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000010", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000015", "split": "scorer_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.862, "error": null}
+{"task_id": "statqa_000016", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000020", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000026", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.966, "error": null}
+{"task_id": "statqa_000027", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000035", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000037", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000038", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000050", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.946, "error": null}
+{"task_id": "statqa_000052", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000053", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.965, "error": null}
+{"task_id": "statqa_000054", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000055", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000058", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000060", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000064", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000067", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000074", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000080", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000082", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000092", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000093", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.637, "error": null}
+{"task_id": "statqa_000097", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000099", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000102", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.96, "error": null}
+{"task_id": "statqa_000107", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000114", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000115", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000116", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000129", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000130", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000132", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000135", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.284, "error": null}
+{"task_id": "statqa_000136", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000143", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000144", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000154", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000160", "split": "scorer_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.386, "error": null}
+{"task_id": "statqa_000169", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000179", "split": "scorer_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000185", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000191", "split": "scorer_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.918, "error": null}
+{"task_id": "statqa_000198", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000200", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000205", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000206", "split": "scorer_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000269", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000276", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000277", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000281", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.965, "error": null}
+{"task_id": "statqa_000283", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.781, "error": null}
+{"task_id": "statqa_000285", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000288", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000296", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000303", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000310", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.98, "error": null}
+{"task_id": "statqa_000316", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.327, "error": null}
+{"task_id": "statqa_000318", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000320", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000325", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000326", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000335", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.873, "error": null}
+{"task_id": "statqa_000338", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000343", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000344", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000348", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000351", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000357", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000358", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.873, "error": null}
+{"task_id": "statqa_000366", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.837, "error": null}
+{"task_id": "statqa_000382", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000384", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.873, "error": null}
+{"task_id": "statqa_000385", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000391", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000398", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.812, "error": null}
+{"task_id": "statqa_000401", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000406", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000407", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.936, "error": null}
+{"task_id": "statqa_000412", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000415", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000416", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000422", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000442", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.943, "error": null}
+{"task_id": "statqa_000449", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.912, "error": null}
+{"task_id": "statqa_000459", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000460", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000465", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_000467", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.881, "error": null}
+{"task_id": "statqa_000474", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000480", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.943, "error": null}
+{"task_id": "statqa_000481", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000483", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000484", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000486", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000494", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000510", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.316, "error": null}
+{"task_id": "statqa_000514", "split": "conformal_calibration", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000229", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000243", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000244", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000246", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000247", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.942, "error": null}
+{"task_id": "statqa_000250", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000252", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000254", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000263", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000273", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000304", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000308", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000337", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000356", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000362", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000365", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000374", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000378", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000402", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.965, "error": null}
+{"task_id": "statqa_000403", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000409", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000410", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000419", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_000420", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000425", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000438", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000439", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000446", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000448", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000451", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000468", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000476", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.943, "error": null}
+{"task_id": "statqa_000488", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000489", "split": "conformal_calibration", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000221", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000224", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000226", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000227", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000233", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000241", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000251", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000253", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000260", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000264", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000271", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000278", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000291", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000295", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000297", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000300", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000301", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.952, "error": null}
+{"task_id": "statqa_000309", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000312", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000319", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000330", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000340", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000341", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000346", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000349", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000352", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000359", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000368", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000370", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000373", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000376", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000381", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000390", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000396", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000400", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000404", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000411", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000413", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000427", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000429", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000432", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000437", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000450", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000452", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000458", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000463", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000470", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000479", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000491", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000496", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000498", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000499", "split": "conformal_calibration", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000220", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_000223", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000225", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000234", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000242", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000248", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000255", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000270", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000272", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000275", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000279", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000282", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000284", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000293", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000294", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000298", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000299", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000306", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000313", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000321", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000324", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000327", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000329", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.894, "error": null}
+{"task_id": "statqa_000331", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000333", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000334", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000336", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000342", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.927, "error": null}
+{"task_id": "statqa_000345", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000347", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000353", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000354", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000360", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000369", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000371", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.732, "error": null}
+{"task_id": "statqa_000372", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000375", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000377", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.887, "error": null}
+{"task_id": "statqa_000386", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000387", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000389", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000393", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000395", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000397", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000399", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000405", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000414", "split": "conformal_calibration", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000207", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.959, "error": null}
+{"task_id": "statqa_000212", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000222", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000232", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.956, "error": null}
+{"task_id": "statqa_000235", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000237", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_000239", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000258", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000265", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000266", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000274", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.934, "error": null}
+{"task_id": "statqa_000280", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000286", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000287", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000289", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_000290", "split": "conformal_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000292", "split": "conformal_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.218, "error": null}
+{"task_id": "statqa_000302", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000305", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000307", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000311", "split": "conformal_calibration", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.902, "error": null}
+{"task_id": "statqa_000314", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000315", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000317", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000322", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000323", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000328", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000332", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000339", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000350", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000355", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.872, "error": null}
+{"task_id": "statqa_000361", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000363", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000364", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_000367", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000379", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.037, "error": null}
+{"task_id": "statqa_000380", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000383", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000388", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.018, "error": null}
+{"task_id": "statqa_000392", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.782, "error": null}
+{"task_id": "statqa_000394", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000408", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000418", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000426", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000428", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000430", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000431", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000434", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000435", "split": "conformal_calibration", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000515", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.904, "error": null}
+{"task_id": "statqa_000519", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000521", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000529", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000530", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.936, "error": null}
+{"task_id": "statqa_000533", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000537", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000539", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000541", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.948, "error": null}
+{"task_id": "statqa_000548", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.846, "error": null}
+{"task_id": "statqa_000556", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000558", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.946, "error": null}
+{"task_id": "statqa_000559", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.938, "error": null}
+{"task_id": "statqa_000564", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000568", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000575", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000577", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.887, "error": null}
+{"task_id": "statqa_000578", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000579", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.861, "error": null}
+{"task_id": "statqa_000595", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000598", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000605", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000606", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000612", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.926, "error": null}
+{"task_id": "statqa_000613", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.938, "error": null}
+{"task_id": "statqa_000615", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.938, "error": null}
+{"task_id": "statqa_000624", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000630", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000631", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_000636", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.874, "error": null}
+{"task_id": "statqa_000643", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000648", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.951, "error": null}
+{"task_id": "statqa_000651", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000653", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000658", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000661", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000666", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000667", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.913, "error": null}
+{"task_id": "statqa_000672", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.873, "error": null}
+{"task_id": "statqa_000676", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000677", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.931, "error": null}
+{"task_id": "statqa_000680", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000705", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000709", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000718", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_000720", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000725", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000728", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000738", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.883, "error": null}
+{"task_id": "statqa_000739", "split": "validation", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000740", "split": "validation", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000492", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000495", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000501", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000502", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000504", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000511", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000523", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000527", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.887, "error": null}
+{"task_id": "statqa_000536", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.956, "error": null}
+{"task_id": "statqa_000551", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000555", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000561", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000563", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.938, "error": null}
+{"task_id": "statqa_000582", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000602", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.938, "error": null}
+{"task_id": "statqa_000621", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000625", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000634", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000637", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000638", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000646", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000649", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_000654", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.862, "error": null}
+{"task_id": "statqa_000664", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000669", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000682", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000687", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000698", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000699", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000701", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000703", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000721", "split": "validation", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000724", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000733", "split": "validation", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000503", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000506", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000507", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000508", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000513", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000516", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000518", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000520", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000534", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000540", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000543", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000550", "split": "validation", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_000552", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000557", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000565", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000567", "split": "validation", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000569", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000570", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000571", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000574", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000580", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000581", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000586", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000589", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000596", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000597", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000599", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000601", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000608", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000614", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000616", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000619", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000623", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000627", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000633", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000639", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000640", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000644", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000645", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000647", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000652", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000656", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000662", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000663", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000668", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000670", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000671", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000674", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000675", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000678", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000679", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000683", "split": "validation", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000417", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000421", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000423", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.966, "error": null}
+{"task_id": "statqa_000424", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000433", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000436", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000441", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.923, "error": null}
+{"task_id": "statqa_000443", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000453", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000454", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000455", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000457", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000461", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000464", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000466", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000469", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000471", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000475", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000477", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000487", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000490", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000493", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000497", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000500", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000509", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000512", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000532", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000535", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000546", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000560", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000566", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_000573", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000583", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000588", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000592", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000600", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000603", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.99, "error": null}
+{"task_id": "statqa_000604", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000610", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000611", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000618", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000620", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000626", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000628", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000632", "split": "validation", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000635", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.731, "error": null}
+{"task_id": "statqa_000642", "split": "validation", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_000440", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.931, "error": null}
+{"task_id": "statqa_000444", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000445", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000447", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000456", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000462", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000472", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000473", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_000478", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000482", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000485", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000505", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000517", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000522", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000524", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000525", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000526", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000528", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000531", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000538", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000542", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.884, "error": null}
+{"task_id": "statqa_000544", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000545", "split": "validation", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_000547", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000549", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000553", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000554", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000562", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000572", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000576", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000584", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000585", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_000587", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000590", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000591", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000593", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000594", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_000607", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000609", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.955, "error": null}
+{"task_id": "statqa_000617", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000622", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_000629", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000641", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000650", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000655", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000673", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000681", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000684", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000689", "split": "validation", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000754", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000756", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000762", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.872, "error": null}
+{"task_id": "statqa_000768", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000771", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.764, "error": null}
+{"task_id": "statqa_000773", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000786", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000787", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000789", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000801", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.817, "error": null}
+{"task_id": "statqa_000804", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000807", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000809", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000811", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000812", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000813", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.936, "error": null}
+{"task_id": "statqa_000815", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000825", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000830", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.862, "error": null}
+{"task_id": "statqa_000833", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000840", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000845", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000847", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.966, "error": null}
+{"task_id": "statqa_000850", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000854", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000858", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000870", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000885", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000889", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.057, "error": null}
+{"task_id": "statqa_000890", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000903", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000906", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.956, "error": null}
+{"task_id": "statqa_000907", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.237, "error": null}
+{"task_id": "statqa_000908", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000911", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000918", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.917, "error": null}
+{"task_id": "statqa_000921", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000922", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.908, "error": null}
+{"task_id": "statqa_000924", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.935, "error": null}
+{"task_id": "statqa_000928", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.873, "error": null}
+{"task_id": "statqa_000942", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.934, "error": null}
+{"task_id": "statqa_000945", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.873, "error": null}
+{"task_id": "statqa_000948", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000951", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_000952", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.284, "error": null}
+{"task_id": "statqa_000956", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.946, "error": null}
+{"task_id": "statqa_000968", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000969", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_000973", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000976", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000980", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000984", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.887, "error": null}
+{"task_id": "statqa_000985", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000986", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000989", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000990", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000992", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000994", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.283, "error": null}
+{"task_id": "statqa_000997", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000999", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_001000", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_001003", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.916, "error": null}
+{"task_id": "statqa_001007", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_001015", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001020", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_001025", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.935, "error": null}
+{"task_id": "statqa_001030", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_001042", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_001045", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_001055", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.948, "error": null}
+{"task_id": "statqa_001058", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_001061", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_001062", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_001063", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.936, "error": null}
+{"task_id": "statqa_001066", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_001069", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_001073", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_001078", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_001079", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_001082", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001085", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001088", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.968, "error": null}
+{"task_id": "statqa_001094", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_001097", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_001098", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.781, "error": null}
+{"task_id": "statqa_001099", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_001102", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_001104", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.912, "error": null}
+{"task_id": "statqa_001107", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_001111", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.887, "error": null}
+{"task_id": "statqa_001112", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_001115", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_001122", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001124", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_001125", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.966, "error": null}
+{"task_id": "statqa_001127", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_001128", "split": "test", "category": "Contingency Table Test", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001131", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001136", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_001139", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_001141", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001144", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.921, "error": null}
+{"task_id": "statqa_001156", "split": "test", "category": "Contingency Table Test", "official_correct": true, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_000742", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000746", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000749", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.437, "error": null}
+{"task_id": "statqa_000753", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000760", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.951, "error": null}
+{"task_id": "statqa_000761", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000763", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000798", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000805", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000818", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000819", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000823", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.941, "error": null}
+{"task_id": "statqa_000824", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.947, "error": null}
+{"task_id": "statqa_000829", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000834", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000836", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000837", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000838", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000846", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000859", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000866", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.923, "error": null}
+{"task_id": "statqa_000868", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000876", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000891", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.948, "error": null}
+{"task_id": "statqa_000898", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_000905", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000913", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000917", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.944, "error": null}
+{"task_id": "statqa_000919", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000920", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000934", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000935", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000939", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000940", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000955", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.951, "error": null}
+{"task_id": "statqa_000958", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000981", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000991", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.862, "error": null}
+{"task_id": "statqa_001009", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_001012", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_001016", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_001019", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_001029", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.952, "error": null}
+{"task_id": "statqa_001031", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001036", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001039", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001040", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_001041", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_001046", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_001050", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_001059", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_001064", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.238, "error": null}
+{"task_id": "statqa_001067", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001068", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_001087", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_001110", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001119", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001129", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_001135", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001137", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001143", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_001152", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001155", "split": "test", "category": "Correlation Analysis", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_001159", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.891, "error": null}
+{"task_id": "statqa_001161", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_001162", "split": "test", "category": "Correlation Analysis", "official_correct": false, "verbalized_p_correct": 0.966, "error": null}
+{"task_id": "statqa_000693", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000696", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000702", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000708", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000710", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000717", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000719", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000723", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000730", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000732", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000737", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000745", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000747", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000748", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000755", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000767", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000770", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000774", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000777", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000778", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000782", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000783", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000784", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000788", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000790", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000792", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000793", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000794", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000796", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000799", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000800", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000802", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000826", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000827", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000835", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000842", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000843", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000844", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000849", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000856", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000861", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000873", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000878", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000880", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000883", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000886", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000888", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000893", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000897", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000899", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000900", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000901", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000902", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000909", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000914", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000916", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000923", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000926", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000930", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000932", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000933", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000947", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000949", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000950", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000964", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000965", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000970", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000972", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.972, "error": null}
+{"task_id": "statqa_000974", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000975", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000977", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000996", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_000998", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001002", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001014", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001017", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001018", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001021", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001022", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001023", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_001027", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001035", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001048", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001052", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001054", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001056", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001060", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001070", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001075", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001077", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001086", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.012, "error": null}
+{"task_id": "statqa_001091", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_001093", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001105", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001109", "split": "test", "category": "Descriptive Statistics", "official_correct": false, "verbalized_p_correct": 0.927, "error": null}
+{"task_id": "statqa_001114", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001132", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001134", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.999, "error": null}
+{"task_id": "statqa_001138", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001148", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_001151", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001154", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001158", "split": "test", "category": "Descriptive Statistics", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_000657", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.995, "error": null}
+{"task_id": "statqa_000659", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000660", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.218, "error": null}
+{"task_id": "statqa_000665", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000685", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000686", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000688", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000691", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000697", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000700", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.931, "error": null}
+{"task_id": "statqa_000711", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000713", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000714", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000715", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.938, "error": null}
+{"task_id": "statqa_000727", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000729", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000731", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000735", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000736", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000744", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000750", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.264, "error": null}
+{"task_id": "statqa_000751", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.934, "error": null}
+{"task_id": "statqa_000757", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000759", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000764", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000766", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_000769", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000776", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000779", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000781", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000785", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000797", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.463, "error": null}
+{"task_id": "statqa_000808", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000810", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000814", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000817", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_000832", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000848", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000851", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000852", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000862", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.981, "error": null}
+{"task_id": "statqa_000863", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000865", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000872", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_000875", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000879", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.969, "error": null}
+{"task_id": "statqa_000887", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000894", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000904", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.237, "error": null}
+{"task_id": "statqa_000912", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000915", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000925", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000929", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_000944", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000953", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.286, "error": null}
+{"task_id": "statqa_000954", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000959", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000979", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000983", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000987", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_000988", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_000995", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001006", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_001008", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001011", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001028", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_001032", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_001033", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.996, "error": null}
+{"task_id": "statqa_001037", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001038", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001043", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_001049", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_001051", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001071", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.864, "error": null}
+{"task_id": "statqa_001072", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_001074", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.914, "error": null}
+{"task_id": "statqa_001083", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.997, "error": null}
+{"task_id": "statqa_001084", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_001090", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_001095", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_001101", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.998, "error": null}
+{"task_id": "statqa_001103", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.944, "error": null}
+{"task_id": "statqa_001106", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_001113", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001116", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_001117", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_001118", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.993, "error": null}
+{"task_id": "statqa_001120", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.961, "error": null}
+{"task_id": "statqa_001130", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_001133", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_001140", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.994, "error": null}
+{"task_id": "statqa_001142", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_001149", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.846, "error": null}
+{"task_id": "statqa_001150", "split": "test", "category": "Distribution Compliance Test", "official_correct": false, "verbalized_p_correct": 0.992, "error": null}
+{"task_id": "statqa_001160", "split": "test", "category": "Distribution Compliance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000690", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000692", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000694", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.891, "error": null}
+{"task_id": "statqa_000695", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.924, "error": null}
+{"task_id": "statqa_000704", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000706", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_000707", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000712", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000716", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.953, "error": null}
+{"task_id": "statqa_000722", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000726", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_000734", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.782, "error": null}
+{"task_id": "statqa_000741", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000743", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000752", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.774, "error": null}
+{"task_id": "statqa_000758", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000765", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.964, "error": null}
+{"task_id": "statqa_000772", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_000775", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.971, "error": null}
+{"task_id": "statqa_000780", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000791", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.071, "error": null}
+{"task_id": "statqa_000795", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000803", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_000806", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000816", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.937, "error": null}
+{"task_id": "statqa_000820", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000821", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000822", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000828", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000831", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000839", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000841", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000853", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.932, "error": null}
+{"task_id": "statqa_000855", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_000857", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000860", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.139, "error": null}
+{"task_id": "statqa_000864", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.946, "error": null}
+{"task_id": "statqa_000867", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000869", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.97, "error": null}
+{"task_id": "statqa_000871", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.951, "error": null}
+{"task_id": "statqa_000874", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000877", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.887, "error": null}
+{"task_id": "statqa_000881", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_000882", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000884", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000892", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.864, "error": null}
+{"task_id": "statqa_000895", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_000896", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000910", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000927", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_000931", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_000936", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000937", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_000938", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000941", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_000943", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.991, "error": null}
+{"task_id": "statqa_000946", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_000957", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000960", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.977, "error": null}
+{"task_id": "statqa_000961", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.975, "error": null}
+{"task_id": "statqa_000962", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.931, "error": null}
+{"task_id": "statqa_000963", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_000966", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.962, "error": null}
+{"task_id": "statqa_000967", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_000971", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_000978", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_000982", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.317, "error": null}
+{"task_id": "statqa_000993", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_001001", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.988, "error": null}
+{"task_id": "statqa_001004", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.963, "error": null}
+{"task_id": "statqa_001005", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_001010", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.985, "error": null}
+{"task_id": "statqa_001013", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.986, "error": null}
+{"task_id": "statqa_001024", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.967, "error": null}
+{"task_id": "statqa_001026", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_001034", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.984, "error": null}
+{"task_id": "statqa_001044", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.983, "error": null}
+{"task_id": "statqa_001047", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.738, "error": null}
+{"task_id": "statqa_001053", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.018, "error": null}
+{"task_id": "statqa_001057", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_001065", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.946, "error": null}
+{"task_id": "statqa_001076", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001080", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.978, "error": null}
+{"task_id": "statqa_001081", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.982, "error": null}
+{"task_id": "statqa_001089", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.987, "error": null}
+{"task_id": "statqa_001092", "split": "test", "category": "Variance Test", "official_correct": false, "verbalized_p_correct": 0.128, "error": null}
+{"task_id": "statqa_001096", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.957, "error": null}
+{"task_id": "statqa_001100", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.989, "error": null}
+{"task_id": "statqa_001108", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_001121", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_001123", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.979, "error": null}
+{"task_id": "statqa_001126", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.976, "error": null}
+{"task_id": "statqa_001145", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.974, "error": null}
+{"task_id": "statqa_001146", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.973, "error": null}
+{"task_id": "statqa_001147", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.071, "error": null}
+{"task_id": "statqa_001153", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.958, "error": null}
+{"task_id": "statqa_001157", "split": "test", "category": "Variance Test", "official_correct": true, "verbalized_p_correct": 0.956, "error": null}
